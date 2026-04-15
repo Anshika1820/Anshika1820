@@ -61,7 +61,9 @@ OOP, Data Structures & Algorithms, REST APIs, MVC Architecture, Microservices, D
 ## 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/anshikasri18
+
 💻 GitHub: https://github.com/Anshika1820
+
 📧 Email: [srivastavaanshika510@gmail.com](mailto:srivastavaanshika510@gmail.com)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
